@@ -1,9 +1,9 @@
-# Laravel Starter Kit — LASTNAME1_LASTNAME2_LASTNAME3_BSIT4A
 
-## Members
-- John Henly Montera
-- Member 2
-- Member 3
+
+## Group Members
+- Arzay D. Fernandez
+- Kim C. Labor
+- Marc Russel R. Eng
 
 ## Project Description
 A reusable Laravel starter kit featuring:
